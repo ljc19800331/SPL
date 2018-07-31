@@ -4,14 +4,15 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleITK-Notebooks" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleITK-Notebooks/.circleci" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleITK-Notebooks/.idea" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleITK-Notebooks/Data" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleITK-Notebooks/Python" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleITK-Notebooks/R" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleITK-Notebooks/SharedImages" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleITK-Notebooks/Utilities" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SimpleITK-Notebooks/tests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simpleITK_notebook/.circleci" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simpleITK_notebook/.idea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simpleITK_notebook/Data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simpleITK_notebook/Python" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simpleITK_notebook/R" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simpleITK_notebook/SharedImages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simpleITK_notebook/Utilities" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simpleITK_notebook/tests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simpleITK_notebook" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -6,18 +6,19 @@
 # Goals
 # Test different parameters
 
+import csv
+import os
+import warnings
+
 import SimpleITK as sitk
 import matplotlib.pyplot as plt
+import numpy as np
+from IPython.display import clear_output
+from ipywidgets import interact, fixed
+
 import registration_callbacks as rc
 import registration_utilities as ru
-import numpy as np
-import warnings
-import csv
-import sys
-import os
 from downloaddata import fetch_data as fdata
-from ipywidgets import interact, fixed
-from IPython.display import clear_output
 
 # Define the output directory
 OUTPUT_DIR = '/home/maguangshen/PycharmProjects/SPL/Data_SPL/'
