@@ -1,4 +1,6 @@
 # This code is used to test multiple functions included in SimpleITK
+# Test the MI 2D and 3D algorithm
+
 from __future__ import print_function
 from ipywidgets import interact, interactive, fixed, interact_manual
 import ipywidgets as widgets
