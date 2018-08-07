@@ -1,10 +1,14 @@
-# This script is used to learn the 3D mutual information/ 2D mutual information
-# Change the parameters to see which can perform a better registration
-# Mutual information as an image matching metric
+# Reference:
 # Im Ref: https://matthew-brett.github.io/teaching/
 # Ref: https://matthew-brett.github.io/teaching/mutual_information.html
 # Database: http://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009
 # Other reference: https://gist.github.com/GaelVaroquaux/ead9898bd3c973c40429#file-mutual_info-py-L9
+
+# Outline: This code is based on the tutorial from the reference (not developed by Guangshen Ma)
+# This code is only for reference purpose
+# This script is used to learn the 3D mutual information/ 2D mutual information
+# Change the parameters to see which can perform a better registration
+# Mutual information as an image matching metric
 
 from __future__ import print_function   # python3 to python2
 from __future__ import division
@@ -16,9 +20,9 @@ plt.rcParams['image.cmap'] = 'gray'
 plt.rcParams['image.interpolation'] = 'nearest'
 
 # Load the data
-t1_img = nib.load('/home/maguangshen/PycharmProjects/SPL/Data_SPL/mni_icbm152_t1_tal_nlin_sym_09a.nii')
+t1_img = nib.load('/home/maguangshen/PycharmProjects/SPL/mni_icbm152_t1_tal_nlin_sym_09a.nii')
 t1_data = t1_img.get_data()
-t2_img = nib.load('/home/maguangshen/PycharmProjects/SPL/Data_SPL/mni_icbm152_t2_tal_nlin_sym_09a.nii')
+t2_img = nib.load('/home/maguangshen/PycharmProjects/SPL/mni_icbm152_t2_tal_nlin_sym_09a.nii')
 t2_data = t2_img.get_data()
 
 # Show the images -- we can define the number of slice on this image
@@ -34,6 +38,8 @@ axes[0].hist(t1_slice.ravel(), bins=20)
 axes[0].set_title('T1 slice histogram (before)')
 axes[1].hist(t2_slice.ravel(), bins=20)
 axes[1].set_title('T2 slice histogram (before)')
+print("The value of the histogram is ", t1_slice.ravel())
+print("The value of the histogram is ", t2_slice.ravel())
 
 # Change the slice to lower such that the MI will change
 t2_slice_moved = np.zeros(t2_slice.shape)

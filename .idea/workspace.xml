@@ -2,96 +2,100 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59708a61-ccfc-43f8-853e-b329a4cb5edf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/ImageOriginAndSpacing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/knobs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/registration_visualization.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/.circleci/config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/.idea/SimpleITK-Notebooks.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/00_Setup.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/01_Image_Basics.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/02_Pythonic_Image.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/03_Image_Details.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/10_matplotlib's_imshow.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/20_Expand_With_Interpolators.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/21_Transforms_and_Resampling.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/22_Transforms.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/300_Segmentation_Overview.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/30_Segmentation_Region_Growing.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/31_Levelset_Segmentation.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/32_Watersheds_Segmentation.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/33_Segmentation_Thresholding_Edge_Detection.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/34_Segmentation_Evaluation.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/35_Segmentation_Shape_Analysis.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/41_Progress.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/51_VH_Segmentation1.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/55_VH_Resample.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/56_VH_Registration1.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/60_Registration_Introduction.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/61_Registration_Introduction_Continued.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/62_Registration_Tuning.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/63_Registration_Initialization.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/64_Registration_Memory_Time_Tradeoff.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/65_Registration_FFD.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/66_Registration_Demons.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/67_Registration_Semiautomatic_Homework.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/68_Registration_Errors.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/70_Data_Augmentation.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/ITKv4RegistrationComponentsDiagram.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/Output/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/environment.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/fle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/gui.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/myshow.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/popi_utilities_setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/registration_callbacks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/registration_utilities.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/setup_for_testing.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Python/update_path_to_download_script.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/00_Setup.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/22_Transforms.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/300_Segmentation_Overview.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/33_Segmentation_Thresholding_Edge_Detection.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/34_Segmentation_Evaluation.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/35_Cell_Segmentation.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/60_Registration_Introduction.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/61_Registration_Introduction_Continued.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/65_Registration_FFD.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/66_Registration_Demons.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/70_Data_Augmentation.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/ITKv4RegistrationComponentsDiagram.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/Image_Basics.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/Output/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/R_style_image.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/downloaddata.R" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/registration_utilities.R" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/setup_for_testing.R" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/R/viewing.R" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/SharedImages/ITKv4RegistrationComponentsDiagram.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Utilities/ClearAllOutputs.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Utilities/downloaddata.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Utilities/foldermd5sums.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Utilities/intro_animation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/Utilities/notes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/environment.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/requirements_dev.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/run.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/tests/additional_dictionary.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/tests/test_notebooks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simpleITK_notebook/tox.ini" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SimpleITK-Notebooks" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CheckSlicerTransform.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data_convert.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/.circleci/config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/.idea/SimpleITK-Notebooks.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/00_Setup.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/01_Image_Basics.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/02_Pythonic_Image.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/03_Image_Details.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/10_matplotlib's_imshow.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/20_Expand_With_Interpolators.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/21_Transforms_and_Resampling.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/22_Transforms.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/300_Segmentation_Overview.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/30_Segmentation_Region_Growing.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/31_Levelset_Segmentation.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/32_Watersheds_Segmentation.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/33_Segmentation_Thresholding_Edge_Detection.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/34_Segmentation_Evaluation.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/35_Segmentation_Shape_Analysis.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/41_Progress.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/51_VH_Segmentation1.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/55_VH_Resample.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/56_VH_Registration1.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/60_Registration_Introduction.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/61_Registration_Introduction_Continued.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/62_Registration_Tuning.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/63_Registration_Initialization.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/64_Registration_Memory_Time_Tradeoff.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/65_Registration_FFD.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/66_Registration_Demons.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/67_Registration_Semiautomatic_Homework.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/68_Registration_Errors.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/70_Data_Augmentation.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/ITKv4RegistrationComponentsDiagram.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/ImageOriginAndSpacing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/Output/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/environment.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/fle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/gui.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/knobs.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/myshow.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/popi_utilities_setup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/registration_callbacks.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/registration_utilities.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/requirements.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/setup_for_testing.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Python/update_path_to_download_script.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/00_Setup.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/22_Transforms.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/300_Segmentation_Overview.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/33_Segmentation_Thresholding_Edge_Detection.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/34_Segmentation_Evaluation.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/35_Cell_Segmentation.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/60_Registration_Introduction.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/61_Registration_Introduction_Continued.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/65_Registration_FFD.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/66_Registration_Demons.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/70_Data_Augmentation.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/ITKv4RegistrationComponentsDiagram.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/Image_Basics.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/Output/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/R_style_image.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/downloaddata.R" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/registration_utilities.R" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/setup_for_testing.R" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/R/viewing.R" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/SharedImages/ITKv4RegistrationComponentsDiagram.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Utilities/ClearAllOutputs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Utilities/downloaddata.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Utilities/foldermd5sums.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Utilities/intro_animation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/Utilities/notes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/environment.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/registration_visualization.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/requirements_dev.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/run.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/tests/additional_dictionary.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/tests/test_notebooks.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/simpleITK_notebook/tox.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SPL.iml" afterPath="$PROJECT_DIR$/.idea/SPL.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MI_2D.py" afterPath="$PROJECT_DIR$/MI_2D.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MI_3D.py" afterPath="$PROJECT_DIR$/MI_3D.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -106,13 +110,13 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test.py">
+      <file leaf-file-name="CheckSlicerTransform.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CheckSlicerTransform.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="34" column="26" lean-forward="false" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+            <state relative-caret-position="108">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
-                <element signature="e#104#141#0" expanded="true" />
+                <element signature="e#193#230#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -121,9 +125,49 @@
       <file leaf-file-name="MI_3D.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MI_3D.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="72">
+              <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+              <folding>
+                <element signature="e#182#196#0" expanded="true" />
+                <element signature="e#271#337#0" expanded="false" />
+                <element signature="e#13174#14714#0" expanded="false" />
+                <element signature="e#14747#15364#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MI_2D.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MI_2D.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+              <folding>
+                <element signature="e#652#712#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MI_Util.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MI_Util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="29" column="69" lean-forward="true" selection-start-line="29" selection-start-column="69" selection-end-line="29" selection-end-column="69" />
+              <folding>
+                <element signature="e#827#837#0" expanded="true" />
+                <element signature="e#1556#2066#0" expanded="false" />
+                <element signature="e#2182#2392#0" expanded="false" />
+                <element signature="e#2453#2544#0" expanded="false" />
+                <element signature="e#2605#2784#0" expanded="false" />
+                <element signature="e#2913#3419#0" expanded="false" />
+                <element signature="e#3458#3549#0" expanded="false" />
+                <element signature="e#3666#4389#0" expanded="false" />
+                <element signature="e#4418#4538#0" expanded="false" />
+                <element signature="e#4566#4571#0" expanded="false" />
+                <element signature="e#4600#5796#0" expanded="false" />
+                <element signature="e#5813#12082#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,15 +181,23 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Sampling</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MI_2D.py" />
-        <option value="$PROJECT_DIR$/MI_3D.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Check.py" />
+        <option value="$PROJECT_DIR$/Data_convert.py" />
+        <option value="$PROJECT_DIR$/MI_2D.py" />
+        <option value="$PROJECT_DIR$/MI_Util.py" />
+        <option value="$PROJECT_DIR$/MI_3D.py" />
       </list>
     </option>
   </component>
@@ -171,6 +223,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,18 +238,89 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/simpleITK_notebook" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.MI_3D">
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SPL" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CheckSlicerTransform.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Data_convert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SPL" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FormatConvert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MI_3D" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SPL" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MI_3D.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MI_2D" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SPL" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MI_2D.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -331,6 +455,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Data_convert" />
+      <item index="2" class="java.lang.String" itemvalue="Python.MI_3D" />
+      <item index="3" class="java.lang.String" itemvalue="Python.MI_2D" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.MI_3D" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MI_2D" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Data_convert" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -349,11 +487,11 @@
     <frame x="65" y="24" width="1375" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14423077" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2056213" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -361,9 +499,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3174807" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -372,16 +510,103 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/CheckSlicerTransform.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        <state relative-caret-position="108">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#104#141#0" expanded="true" />
+            <element signature="e#193#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MI_3D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding>
+            <element signature="e#182#196#0" expanded="true" />
+            <element signature="e#271#337#0" expanded="false" />
+            <element signature="e#13174#14714#0" expanded="false" />
+            <element signature="e#14747#15364#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MI_2D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <element signature="e#652#712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MI_Util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#827#837#0" expanded="true" />
+            <element signature="e#1556#2066#0" expanded="false" />
+            <element signature="e#2182#2392#0" expanded="false" />
+            <element signature="e#2453#2544#0" expanded="false" />
+            <element signature="e#2605#2784#0" expanded="false" />
+            <element signature="e#2913#3419#0" expanded="false" />
+            <element signature="e#3458#3549#0" expanded="false" />
+            <element signature="e#3666#4389#0" expanded="false" />
+            <element signature="e#4418#4538#0" expanded="false" />
+            <element signature="e#4566#4571#0" expanded="false" />
+            <element signature="e#4600#5796#0" expanded="false" />
+            <element signature="e#5813#12082#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MI_Util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="e#827#837#0" expanded="true" />
+            <element signature="e#1556#2066#0" expanded="false" />
+            <element signature="e#2182#2392#0" expanded="false" />
+            <element signature="e#2453#2544#0" expanded="false" />
+            <element signature="e#2605#2784#0" expanded="false" />
+            <element signature="e#2913#3419#0" expanded="false" />
+            <element signature="e#3458#3549#0" expanded="false" />
+            <element signature="e#3666#4389#0" expanded="false" />
+            <element signature="e#4418#4538#0" expanded="false" />
+            <element signature="e#4566#4571#0" expanded="false" />
+            <element signature="e#4600#5796#0" expanded="false" />
+            <element signature="e#5813#12082#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CheckSlicerTransform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="e#193#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CheckSlicerTransform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="e#193#230#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -390,26 +615,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MI_2D.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#499#559#0" expanded="true" />
+            <element signature="e#182#196#0" expanded="true" />
+            <element signature="e#271#337#0" expanded="false" />
+            <element signature="e#13174#14714#0" expanded="false" />
+            <element signature="e#14747#15364#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MI_2D.py">
+    <entry file="file://$PROJECT_DIR$/CheckSlicerTransform.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="61" column="31" lean-forward="true" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
+        <state relative-caret-position="306">
+          <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
           <folding>
-            <element signature="e#499#559#0" expanded="true" />
+            <element signature="e#193#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MI_3D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#182#196#0" expanded="true" />
+            <element signature="e#271#337#0" expanded="false" />
+            <element signature="e#13174#14714#0" expanded="false" />
+            <element signature="e#14747#15364#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FormatConvert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CheckSlicerTransform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="e#193#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CheckSlicerTransform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#193#230#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -418,16 +678,153 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#182#196#0" expanded="true" />
+            <element signature="e#271#337#0" expanded="false" />
+            <element signature="e#13174#14714#0" expanded="false" />
+            <element signature="e#14747#15364#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CheckSlicerTransform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="e#193#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MI_3D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#182#196#0" expanded="true" />
+            <element signature="e#271#337#0" expanded="false" />
+            <element signature="e#13174#14714#0" expanded="false" />
+            <element signature="e#14747#15364#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MI_2D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/nibabel/loadsave.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1402">
+          <caret line="81" column="4" lean-forward="false" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-1247972723/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2909">
+          <caret line="2079" column="8" lean-forward="false" selection-start-line="2079" selection-start-column="8" selection-end-line="2079" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-1247972723/posix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="658" column="4" lean-forward="false" selection-start-line="658" selection-start-column="4" selection-end-line="658" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Case23-beforeUS.csv" />
+    <entry file="file://$PROJECT_DIR$/SimpleITK-Notebooks/Utilities/downloaddata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="254" column="0" lean-forward="true" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/SimpleITK/SimpleITK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="10256" column="8" lean-forward="false" selection-start-line="10256" selection-start-column="8" selection-end-line="10256" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/matplotlib/axes/_axes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="34" column="26" lean-forward="false" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        <state relative-caret-position="33">
+          <caret line="6219" column="8" lean-forward="false" selection-start-line="6219" selection-start-column="8" selection-end-line="6219" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FormatConvert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CheckSlicerTransform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#104#141#0" expanded="true" />
+            <element signature="e#193#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RIRE_test_US2MRI.tfm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MI_2D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <element signature="e#652#712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MI_3D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding>
+            <element signature="e#182#196#0" expanded="true" />
+            <element signature="e#271#337#0" expanded="false" />
+            <element signature="e#13174#14714#0" expanded="false" />
+            <element signature="e#14747#15364#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MI_Util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="69" lean-forward="true" selection-start-line="29" selection-start-column="69" selection-end-line="29" selection-end-column="69" />
+          <folding>
+            <element signature="e#827#837#0" expanded="true" />
+            <element signature="e#1556#2066#0" expanded="false" />
+            <element signature="e#2182#2392#0" expanded="false" />
+            <element signature="e#2453#2544#0" expanded="false" />
+            <element signature="e#2605#2784#0" expanded="false" />
+            <element signature="e#2913#3419#0" expanded="false" />
+            <element signature="e#3458#3549#0" expanded="false" />
+            <element signature="e#3666#4389#0" expanded="false" />
+            <element signature="e#4418#4538#0" expanded="false" />
+            <element signature="e#4566#4571#0" expanded="false" />
+            <element signature="e#4600#5796#0" expanded="false" />
+            <element signature="e#5813#12082#0" expanded="false" />
           </folding>
         </state>
       </provider>
